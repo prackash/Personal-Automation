@@ -1,0 +1,1 @@
+Display the temperature and Humidity data retrieved from the DHT sensor to the LCD Display
